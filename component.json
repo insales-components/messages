@@ -1,0 +1,15 @@
+{
+  "name": "Словарь",
+  "version": "1.0.0",
+  "description": "Переводы фраз",
+  "author": "LiquidHub.ru",
+  "type": "config",
+  "homepage": "https://github.com/insales-components/messages",
+  "props": {
+    "plugins": false,
+    "cellsio": false,
+    "common": false,
+    "liquid": false
+  },
+  "dependencies": {}
+}
